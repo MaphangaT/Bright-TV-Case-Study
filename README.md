@@ -48,37 +48,7 @@ Contains TV programme consumption records.
 * `Programme`
 * `RecordDate`
 * `WatchDuration`
-* `Province`
-
----
-
-## Project Structure
-
-```bash
-brighttv-case-study/
-│
-├── data/
-│   ├── user_profiles.csv
-│   └── viewership_data.csv
-│
-├── sql/
-│   ├── data_cleaning.sql
-│   ├── joins_analysis.sql
-│   ├── demographic_insights.sql
-│   └── consumption_trends.sql
-│
-├── notebooks/
-│   └── brighttv_analysis.ipynb
-│
-├── visuals/
-│   ├── province_viewership.png
-│   ├── age_group_analysis.png
-│   └── gender_split.png
-│
-└── README.md
-```
-
----
+* `Province
 
 ## Tools & Technologies
 
