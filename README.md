@@ -1,8 +1,11 @@
-# 📺 BrightTV Case Study – Viewership & User Analytics
+# 📺 BrightTV Case Study – Viewership & User Overview
 
-## Overview
 
-This project presents an end-to-end data analytics case study for **BrightTV**, focused on understanding user behavior, content consumption trends, and strategic recommendations to improve platform engagement and growth.
+This project presents an end-to-end data analytics case study for BrightTv,focused on understanding user behavior, content consumption trends, and strategic recommendations to improve platform engagement and growth.
+
+**Dashboard**  
+
+https://bright-viewer-pulse.lovable.app
 
 The analysis combines **SQL-based data transformation**, **user profiling**, and **viewership trend analysis** to uncover actionable business insights.
 
